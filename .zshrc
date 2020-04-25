@@ -1,10 +1,3 @@
-plugins=(
-  git
-  jump
-  kubectl
-)
-
-source ~/.oh-my-zsh/oh-my-zsh.sh
 source ~/.zshrc-stro
 
 # STARSHIP
