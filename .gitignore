@@ -2,6 +2,9 @@
 *
 
 # But not these files...
+!.editorconfig
+!.gitattributes
+!.gitconfig
 !.gitignore*
 !.vimrc
 !.yarnrc
