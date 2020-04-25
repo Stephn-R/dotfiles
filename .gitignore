@@ -10,3 +10,5 @@
 !.yarnrc
 !.zshrc
 !.zshrc-stro
+!.vim
+!.vim/**
